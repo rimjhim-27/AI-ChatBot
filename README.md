@@ -16,7 +16,7 @@ This project is a text-based AI chatbot designed to simulate symptom-based healt
 
 ## 🛠️ Tech Stack
 
-- Java / Python (depending on implementation)
+- Java 
 - Console or GUI (Swing/JavaFX or Flask frontend if applicable)
 - File-based knowledge base or rule engine
   
